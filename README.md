@@ -1,7 +1,7 @@
 # SC-cofacts-extension
 ## Demo Video
 [![demo](http://img.youtube.com/vi/JxxwyeFB45s/0.jpg)](https://youtu.be/JxxwyeFB45s)
-## How to use?
+## How to use it?
 1. clone this repo: git clone https://github.com/DSC-TW/SC-cofacts-extension.git
 ![](img/clone.gif)
 2. Go to chrome://extensions/ click load unpack and select the repo.
